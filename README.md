@@ -58,7 +58,7 @@ However, using multiple metrics and charts throughout my analysis, the findings 
 - `README.md`: This file, provides an overview of the project.
 - `R_markdown_bike_case_study.Rmd`: R Markdown file with the full analysis code and findings.
 - `snall_bike_df.csv`: Sample of the dataset used for analysis (due to the size limit, this is only a sample). Full dataset is coming soon.
-- `output.html` or `output.pdf`: Rendered report of the R Markdown file for easier viewing of results and visualizations.
+- `R_markdown_bike_case_stude.html` and `R_markdown_bike_case_stude.pdf`: Rendered report of the R Markdown file for easier viewing of results and visualizations.
 
 ## Technologies Used
 - **Excel**: Preliminary exploration, data inspection, data cleaning, creating new columns and data visualization.
